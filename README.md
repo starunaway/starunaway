@@ -1,4 +1,4 @@
-### Hi there 👋
+# HI THIS IS ONE BENGINER CODER 👋
 
 <!--
 **starunaway/starunaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on react & vue
+- 🌱 I’m currently learning java & node
+- 📫 Next I want to study nginx
