@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on react & vue
 - 🌱 I’m currently learning java & node
 - 📫 Next I want to study nginx
+- ⚡ Another field is CFA
