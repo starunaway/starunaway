@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on React & vue.js
-- 🌱 I’m currently learning  node.js
+- 🔭 I’m currently working on React & Vue.js
+- 🌱 I’m currently learning  Node.js
 - 📫 Next I want to study nginx
 - ⚡ Another field is CFA
